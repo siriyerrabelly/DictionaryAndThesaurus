@@ -1,0 +1,7 @@
+﻿fast : quick
+quick : ﻿fast, rapid
+defect : bug
+bug : fault, defect
+rapid : quick
+fault : error, bug
+error : fault
