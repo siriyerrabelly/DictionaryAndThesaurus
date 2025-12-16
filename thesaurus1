@@ -4,4 +4,4 @@ defect : bug
 bug : fault, defect
 rapid : quick
 fault : error, bug
-error  
+error : fault

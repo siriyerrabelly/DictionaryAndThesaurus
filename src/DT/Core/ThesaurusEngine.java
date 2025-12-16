@@ -30,6 +30,11 @@ private Map<String, List<String>> syn = new HashMap<>();
 		    public Map<String, List<String>> getAll() {
 		        return syn;
 		    }
+
+			public void addLines(List<String> corpus2) {
+				// TODO Auto-generated method stub
+				
+			}
 		
 
 	}
